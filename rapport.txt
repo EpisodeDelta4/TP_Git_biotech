@@ -1,3 +1,4 @@
 Git est un système de contrôle de version qui crée un historique d'un projet permettant de le modifier et revenir en arrière pour corriger ses erreurs.
 Github est une plateforme en ligne qui permet de partager ses projets git avec d'autres personnes en ligne. Dans ce tp j'ai appris comment cloner un depôt git
 dans un notebook google colab et comment ecrire un fichier txt et le commit dans git hub.
+Description du projet personnel : J'ai pour objectif de reussir à avoir ma licence afin de pouvoir faire un master en assurance qualité.
